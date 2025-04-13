@@ -15,8 +15,6 @@ const PORT = parseInt(process.env.PORT) || 3000;
 app.use(cors());
 app.use(express.json());
 const openai = new OpenAI({
-  apiKey:
-    "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",
 });
 let db;
 
