@@ -1,9 +1,16 @@
-# Study-Group-Matcher
-Study Group Matcher is a web-based platform that dynamically forms study groups based on users' interests, availability, and preferences. Instead of using a pre-existing dataset, users enter their details, and AI algorithms create optimized study groups.
-# Key Features
-- **AI-powered group formation** (Based on user inputs)  
-- **Web-based user interaction** (Profile setup, preferences) 
-## 🚀 Current Progress
-✅ **Project Start Date:** Feb 12, 2025  
-✅ **Group 1 Presentation Completed**  
-🔄 **Current Focus:** UI/UX design, feature planning  
+# studygroupmatcher
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
