@@ -16,13 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## 👥 Team Contributions
 
-- **Abhiram** – Backend Development  
+- Abhiram – Backend Development  
   Handled API creation, database integration, and server-side logic.
 
-- **Devender Reddy** – UI Design  
+- Devender Reddy – UI Design  
   Built the user interface using Flutter and worked on layouts.
 
-- **Vivek ** – Backend Integration  
+- Vivek – Backend Integration  
   Connected the UI with backend APIs, and user experience.
 
 ✅ All members contributed equally based on their roles.
